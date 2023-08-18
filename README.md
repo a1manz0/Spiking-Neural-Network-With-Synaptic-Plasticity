@@ -9,4 +9,4 @@ each other
 Use as an additional module that will work together with the attention mechanism
 
 ![Screenshot](snip_08-18-2023_05-46-20.png)
-![Screenshot](snip_08-18-2023_05-46-39.png)
+![Screenshot](snip_08-18-2023_20-47-28.png)
